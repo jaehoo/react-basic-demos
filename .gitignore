@@ -54,6 +54,10 @@ web_modules/
 
 # Optional npm cache directory
 .npm
+package-lock.json
+.yarn
+yarn.lock
+.expo
 
 # Optional eslint cache
 .eslintcache
